@@ -15,6 +15,37 @@ body.fade-out {
     opacity: .1; /*opacity at the start of loading web page */
     transition: none;
 }
+
+p {
+    font-family: Perpetua, 'Times New Roman', Times, serif;
+    font-size: 1.5vw;
+    letter-spacing: .1vw;
+    padding-left: 1vw;
+    padding-right: 1vw;
+    text-align: justify;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-family: "Trebuchet MS", Optima;
+    margin-top: 3%;
+    text-align: center;
+    color: #1a1a1a;
+}
+h1:hover {
+    filter: grayscale(5%);
+    transform: scale(1.1);
+    transition: transform 1s;
+}
+/* center align elements */
+center {
+    font-family: Perpetua, Rockwell Extra Bold;
+    font-size: 1.5vw;
+    letter-spacing:.1vw;
+    text-align: center;
+    padding-left: 5vw;
+    padding-right: 5vw;
+}
 /******************************** Navigation **********************************/
 .Navbar {
     overflow: hidden;
