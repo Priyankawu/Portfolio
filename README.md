@@ -1,5 +1,5 @@
 # Portfolio
-my portfolio website
+## My portfolio website
 
 This is my portfolio website that features my background and experience for potential employers. 
 It was a good practice in building something from scratch using HTML, CSS and JavaScript. I used 
